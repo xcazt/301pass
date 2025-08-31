@@ -5,21 +5,14 @@
 
 http抢答301,系统ubutu22.04。
 
-2921a95e-045e-67e4-dce2-ac7c681df97
+测试秘钥：G3HD-MFYQ-8H7J-450Q
 
-使用方法： 第一步下载运行软件：
+使用方法： 下载运行软件：
 
 ````
-wget https://github.com/xcazt/301pass/raw/refs/heads/main/z301 && chmod 777 /root/z301
+wget https://github.com/xcazt/301pass/raw/refs/heads/main/z301 && chmod 777 /root/z301 && ./z301
 ````
 
-再运行下列代码
-````
-nohup ./z301 > z301.log 2>&1 &
-````
-访问地址：http://ip:1818
-管理账号：admin 
-管理密码：admin888
 
 # 管理界面
 
